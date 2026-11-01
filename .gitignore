@@ -1,7 +1,6 @@
 *.aux
 *.log
 *.toc
-*.pdf
 *.gz
 *.png
 auto/
